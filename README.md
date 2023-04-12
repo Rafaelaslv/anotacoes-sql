@@ -27,10 +27,14 @@ SELECT
 FROM
 WHERE
 AS
-CASE
+JOIN
 
 AND
 OR
+LIMIT
+IN
+CASE
+
 IS NULL
 IS LIKE
 COMMIT
@@ -40,11 +44,22 @@ ALTER TABLE
 UPDATE
 CREATE
 DELETE
+INSERT
+DROP
+
+GROUP BY
+ORDER BY
+HAVING
+COUNT
+SUM
+AVG
+MIN
+MAX
 
 
 
 
-SQL possui cinco subconjuntos, responsáveis pelas operações de definição, manipulação, consulta, transação e controle.
+**SQL possui cinco conjuntos, responsáveis pelas operações de definição, manipulação, consulta, transação e controle.**
 
 
 

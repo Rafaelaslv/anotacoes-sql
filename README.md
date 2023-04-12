@@ -10,5 +10,17 @@
 
 E para armazenar e manipular os dados é necessário o uso de comandos.
 
-Alguns dos comandos mais utilizados
+Alguns dos comandos mais utilizados:
+
+SELEC
+FROM
+WHERE
+AS
+JOIN
+AND
+OR
+LIMIT
+IN
+CASE
+
 

@@ -22,38 +22,34 @@ E para armazenar e manipular os dados é necessário o uso de comandos.
 
 **Alguns dos comandos mais utilizados:**
 
-SELECT
-FROM
-WHERE
-AS
-JOIN
-
-AND
-OR
-LIMIT
-IN
-CASE
-
-IS NULL
-IS LIKE
-COMMIT
-ROLLBACK
-
-ALTER TABLE
-UPDATE
-CREATE
-DELETE
-INSERT
-DROP
-
-GROUP BY
-ORDER BY
-HAVING
-COUNT
-SUM
-AVG
-MIN
-MAX
+<br>SELECT: seleciona dado do banco de dado. </br>
+<br>FROM: especifica de qual tabela estamos puxando o dado </br> 
+<br>WHERE: </br>
+<br>AS: </br>
+<br>JOIN: combina linhas de 2 ou mais tabelas. </br>
+<br>AND: </br>
+<br>OR: </br>
+<br>LIMIT: </br>
+<br>IN: </br>
+<br>CASE: </br>
+<br>IS NULL: </br>
+<br>IS LIKE: </br>
+<br>COMMIT: </br>
+<br>ROLLBACK: </br>
+<br>ALTER TABLE: </br>
+<br>UPDATE: </br>
+<br>CREATE: </br>
+<br>DELETE: </br>
+<br>INSERT: </br>
+<br>DROP: </br>
+<br>GROUP BY: </br>
+<br>ORDER BY: </br>
+<br>HAVING: </br> 
+<br>COUNT: conta o número de linhas. </br>
+<br>SUM: retorna a soma da coluna. </br>
+<br>AVG: retorna a média da coluna. </br>
+<br>MIN: retorna o valor mínimo da coluna. </br>
+<br>MAX: retorna o valor máximo da coluna. </br>
 
 
 

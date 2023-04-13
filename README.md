@@ -22,13 +22,13 @@ E para armazenar e manipular os dados é necessário o uso de comandos.
 
 **Alguns dos comandos mais utilizados:**
 
-<br>SELECT: seleciona dado do banco de dado. </br>
-<br>FROM: especifica de qual tabela estamos puxando o dado. </br> 
-<br>WHERE: </br>
-<br>AS: </br>
+<br>SELECT: seleciona dados do banco de dados. </br>
+<br>FROM: especifica de qual tabela estamos puxando os dados. </br> 
+<br>WHERE: especifica os critérios que os valores do campo devem cumprir (realiza um filtro). </br>
+<br>AS: renomeia a coluna com um apelido que voce escolher. </br>
 <br>JOIN: combina linhas de 2 ou mais tabelas. </br>
-<br>AND: </br>
-<br>OR: </br>
+<br>AND: os resultados a serem mostrados devem atender os dois criterios. </br>
+<br>OR: os resultados a serem mostrados ira incluir apenas um dos criterios. </br>
 <br>LIMIT: </br>
 <br>IN: </br>
 <br>CASE: </br>

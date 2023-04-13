@@ -1,5 +1,5 @@
 ## 👽📣 Hey terráqueos!!
----
+
 
 
 ### Este repositório conterá minhas anotações dos conhecimentos obtidos através dos cursos de SQL disponíveis nas plataformas DIO e Prime Cursos.

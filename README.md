@@ -24,14 +24,14 @@ E para armazenar e manipular os dados é necessário o uso de comandos.
 
 <br>SELECT: seleciona dados do banco de dados. </br>
 <br>FROM: especifica de qual tabela estamos puxando os dados. </br> 
-<br>WHERE: especifica os critérios que os valores do campo devem cumprir (realiza um filtro). </br>
-<br>AS: renomeia a coluna com um apelido que voce escolher. </br>
+<br>WHERE: especifica os critérios que os valores dos campos devem cumprir (realiza um filtro). </br>
+<br>AS: renomeia a coluna com um apelido que você escolher. </br>
 <br>JOIN: combina linhas de 2 ou mais tabelas. </br>
-<br>AND: os resultados a serem mostrados devem atender os dois criterios. </br>
-<br>OR: os resultados a serem mostrados ira incluir apenas um dos criterios. </br>
-<br>LIMIT: </br>
-<br>IN: </br>
-<br>CASE: </br>
+<br>AND: os resultados a serem mostrados devem atender todos os critérios. </br>
+<br>OR: os resultados a serem mostrados devem atender pelo menos um dos critérios. </br>
+<br>LIMIT: especifica o número de linhas que devem ser retornadas no resultado de uma consulta. </br>
+<br>IN: é um operador para especificar vários valores em uma cláusula WHERE. </br>
+<br>CASE:  </br>
 <br>IS NULL: </br>
 <br>IS LIKE: </br>
 <br>COMMIT: </br>

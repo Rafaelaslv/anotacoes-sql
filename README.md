@@ -62,7 +62,12 @@ E para armazenar e manipular os dados é necessário o uso de comandos.
 * DCL Atua nas permissões, restrições e bloqueios no banco de dados (grant – permite acesso ou, ainda, modificações no banco de dados).
 * DTL Responsável por registrar e salvar quaisquer alterações realizadas por usuários (commit – autoriza o salvamento de eventuais alterações).
 
+**Os componentes do SQL**
 
+* Database Engine
+* Analysis Services
+* Reporting Services
+* Integration Services
 
 
 

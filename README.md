@@ -14,7 +14,9 @@
 
 ---
 
-🏁 **SQL** (Structured Query Language ou Linguagem de Consulta Estruturada) é uma linguagem de programação usada para o armazenamento e manipulação de dados em bancos de dados relacionais.
+🏁 **SQL** (Structured Query Language ou Linguagem de Consulta Estruturada) é uma linguagem de programação usada para o armazenamento e manipulação de dados em bancos de dados relacionais..
+
+Por, justamente, passar por poucas modificações, é universal e estável.
 
 E para armazenar e manipular os dados é necessário o uso de comandos.
 
@@ -53,9 +55,14 @@ E para armazenar e manipular os dados é necessário o uso de comandos.
 
 ---
 
+**As sintaxes que compõe o SQL possuem algumas subdivisões. São elas:**
+
+* DML São comandos de alteração das informações contidas em tabelas, que pode ser para a inserção ou exclusão de dados (select, delete e insert).
+* DDL São comandos de modificação do banco de dados (drop – apaga um objeto, create – cria um objeto).
+* DCL Atua nas permissões, restrições e bloqueios no banco de dados (grant – permite acesso ou, ainda, modificações no banco de dados).
+* DTL Responsável por registrar e salvar quaisquer alterações realizadas por usuários (commit – autoriza o salvamento de eventuais alterações).
 
 
-**SQL possui cinco conjuntos, responsáveis pelas operações de definição, manipulação, consulta, transação e controle.**
 
 
 
